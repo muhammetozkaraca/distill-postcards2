@@ -11,6 +11,8 @@ navbar:
       href: blog.html   # add
     - text: "CV/Resumé"
       href: CVs/cv.pdf
+    - icon: fab fa-github
+      href: https://github.com/muhammetozkaraca
 output: distill::distill_article
 
 
