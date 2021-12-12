@@ -1,15 +1,18 @@
 ---
-title: "introduce"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Muhammet Ozkaraca"
+image: "photo2.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/muhammet-ozkaraca/"
+  - label: Twitter
+    url: "https://twitter.com/muhammetozkrca"
+  - label: GitHub
+    url: "https://github.com/muhammetozkaraca"
+  - label: Email
+    url: "mailto:muhammetozk@icloud.com"
 site: distill::distill_website
+output:
+  postcards::trestles
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-```
-
+ 
+I aspire to be a social scientist. I am interested in the subjects of armed conflicts, terrorism studies, religious politics, as well as political methodologies with more than 2 years of experience in related fields. Previously, I held a couple of research assistant positions in academia and interned at national and international think tanks. Throughout these occasions, I gathered experience in conducting literature reviews, preparing and drafting written works, gathering background information, along with cleaning, analyzing, and visualizing data in R and Python. I also occasionally use the MS Excel program for data analysis purposes.
